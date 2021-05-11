@@ -1,0 +1,28 @@
+[class*="col-"]{
+    height: 25px;
+    text-align: center;
+    color: white;
+    font-size: 20px
+}
+.brown{
+    background-color: rgb(66, 28, 28);
+}
+.pink{
+    background-color: pink;
+}
+.purple{
+    background-color: rgb(49, 11, 49);
+}
+.brown-naso{
+    background-color: rgb(99, 61, 61);
+}
+.brown-bocca{
+    background-color: rgb(138, 65, 65);
+}
+.blue{
+    background-color: lightseagreen;
+}
+.border-left, .border-right{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
