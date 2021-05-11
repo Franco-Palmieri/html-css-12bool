@@ -1,9 +1,19 @@
 [class*="col-"] {
     height: 100px;
-    background-color: red;
+    background-color: pink;
     border: 1px solid black;
     text-align: center;
     line-height: 100px;
+   
 }
 [class*="col-"] > .row > [class*="col-"]{
+    background-color: rosybrown;
+    height: 100%;
+    line-height: 68px;
+}
+.row{
+    height: 100%;
+}
+.col-{
+    padding: 15px;
 }
